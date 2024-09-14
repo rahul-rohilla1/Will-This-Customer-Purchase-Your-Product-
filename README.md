@@ -23,3 +23,4 @@ You are given an `online_shopping_session_data.csv` that contains several column
 |`Month`|month of the session date|
 |`CustomerType`|customer type|
 |`Purchase`|class label whether the customer make a purchase|
+https://www.datacamp.com/datalab/w/50053572-09a0-406b-aafa-8ff38eb20a69/edit#67065ba3-366a-4275-ba63-22c0e066d136
